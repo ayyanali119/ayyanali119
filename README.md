@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ayyanali119
+- 👋 Hi, I’m @ayyanali
 - 👀 I’m interested in web 3.0 and metaverse
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning Web Development and Fast API.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
